@@ -79,3 +79,5 @@ The reason we are able to do this is because we have enabled the ssh port to be 
 
 When all this has passed, you should be able to view a message on the following url:  
 http://{external-ip-of-instance}:3000
+
+Clean up your services when done.
