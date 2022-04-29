@@ -14,9 +14,9 @@ The steps to perform:
 5. Create the CRUD NestJS application
 6. Move the application to the corresponding instance and expose the application
 
-Documentation:
+Documentation:  
 [Google Cloud VPC](https://cloud.google.com/vpc/docs/vpc)  
 [Google Compute Engine](https://cloud.google.com/compute/docs/instances)  
-[Postgres installation](https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04#introduction)
+[Postgres installation](https://www.cherryservers.com/blog/how-to-install-and-setup-postgresql-server-on-ubuntu-20-04#introduction)  
 [NestJS](https://docs.nestjs.com/)  
 [PM2 (Process manager)](https://pm2.keymetrics.io/docs/usage/quick-start/)  
