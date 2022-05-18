@@ -5,8 +5,8 @@ Set up a Compute Engine instance with a small NestJS API that is accessible from
 
 ### Task 2
 Set up a managed instance group of two Compute Engine instances with a simple NestJS application like in task 1.
-Make sure the managed instance group always keeps two instances running even when one goes down.
-Make sure the two instances can only be accessed through a load balancer endpoint and not via their public IP address.
+Make sure the managed instance group always keeps two instances running.
+Make sure the two instances can only be accessed through a load balancer endpoint.
 
 ### Task 3
 Set up a Compute Engine instance with a small Node.JS (NestJS) API that is accessible from a public IP address. Connect the instance with a database and have some CRUD operations take place on the API. Make sure only the Compute Engine can access the database, but still allow ssh from your local machine.
